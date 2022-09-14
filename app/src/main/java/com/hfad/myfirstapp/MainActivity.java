@@ -11,6 +11,7 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
         //For Git Tutorial
-        //Master Branch Change
+        //For New Login Credentials
+        //For Method Name Change
     }
 }
