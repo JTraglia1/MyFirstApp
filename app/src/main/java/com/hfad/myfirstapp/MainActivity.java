@@ -12,6 +12,6 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
         //For Git Tutorial
         //For New Login Credentials
-        //For Method Name Change
+        //For Method Name
     }
 }
